@@ -4,7 +4,7 @@ const baseUrl = 'https://www.biosolution.tech';
 
 // Indonesian Page Metadata
 export const homeMetadata: Metadata = {
-  title: 'Biosolution | Bioteknologi Pertanian Indonesia #1 - Pupuk Hayati, Biosecurity & Maklon',
+  title: 'Biosolution | Bioteknologi Pertanian #1 Indonesia',
   description: 'Biosolution - Perusahaan bioteknologi pertanian terdepan Indonesia. Spesialis pupuk hayati, insektisida hayati, biosecurity hortikultura, probiotik hewan, dan jasa maklon. 14+ tahun pengalaman, melayani 19 provinsi. Hubungi: +62 857-4224-9591.',
   keywords: ['bioteknologi pertanian', 'pupuk hayati', 'biosecurity', 'hortikultura', 'maklon', 'probiotik', 'Indonesia'],
   alternates: {
@@ -14,7 +14,7 @@ export const homeMetadata: Metadata = {
 };
 
 export const aboutMetadata: Metadata = {
-  title: 'Tentang Biosolution - Perusahaan Bioteknologi Pertanian Indonesia Sejak 2010',
+  title: 'Tentang Biosolution - Bioteknologi Pertanian Sejak 2010',
   description: 'Pelajari tentang Biosolution (PT Centra Biotech Indonesia) - pelopor bioteknologi pertanian Indonesia. Didirikan 2010, melayani 19 provinsi dengan produk pupuk hayati, insektisida hayati, dan solusi biosecurity berkualitas tinggi.',
   keywords: ['tentang biosolution', 'sejarah biosolution', 'PT Centra Biotech Indonesia', 'bioteknologi Indonesia', 'pendiri biosolution'],
   alternates: {
@@ -29,7 +29,7 @@ export const aboutMetadata: Metadata = {
 };
 
 export const solutionsMetadata: Metadata = {
-  title: 'Solusi Bioteknologi - Produk Pertanian, Peternakan & Perikanan | Biosolution',
+  title: 'Solusi Bioteknologi Pertanian & Peternakan | Biosolution',
   description: 'Jelajahi solusi bioteknologi lengkap dari Biosolution: pupuk hayati, insektisida hayati, probiotik ternak, probiotik ikan, dan produk biosecurity untuk pertanian berkelanjutan Indonesia.',
   keywords: ['solusi bioteknologi', 'produk pertanian', 'pupuk hayati', 'insektisida hayati', 'probiotik ternak', 'probiotik ikan', 'biosecurity'],
   alternates: {
@@ -44,7 +44,7 @@ export const solutionsMetadata: Metadata = {
 };
 
 export const solutionsPlantMetadata: Metadata = {
-  title: 'Biosecurity Tanaman - Pupuk Hayati & Insektisida Hayati | Biosolution',
+  title: 'Biosecurity Tanaman - Pupuk & Insektisida Hayati',
   description: 'Produk biosecurity tanaman premium: FloraOne, BioKiller, BIOJAGAT, dan lainnya. Pupuk hayati dan insektisida hayati untuk hortikultura, perkebunan, dan pertanian berkelanjutan.',
   keywords: ['biosecurity tanaman', 'pupuk hayati', 'insektisida hayati', 'FloraOne', 'BioKiller', 'BIOJAGAT', 'hortikultura', 'pertanian organik'],
   alternates: {
@@ -59,7 +59,7 @@ export const solutionsPlantMetadata: Metadata = {
 };
 
 export const solutionsAnimalMetadata: Metadata = {
-  title: 'Biosecurity Hewan - Probiotik Ternak, Unggas & Ikan | Biosolution',
+  title: 'Biosecurity Hewan - Probiotik Ternak & Unggas',
   description: 'Produk biosecurity hewan premium: SIMBIOS, RAJABIO, MEGABIO untuk ternak, unggas, dan akuakultur. Tingkatkan produktivitas peternakan dan perikanan dengan probiotik berkualitas.',
   keywords: ['biosecurity hewan', 'probiotik ternak', 'probiotik unggas', 'probiotik ikan', 'SIMBIOS', 'RAJABIO', 'MEGABIO', 'akuakultur', 'peternakan'],
   alternates: {
@@ -74,7 +74,7 @@ export const solutionsAnimalMetadata: Metadata = {
 };
 
 export const researchMetadata: Metadata = {
-  title: 'Riset & Inovasi Bioteknologi - Laboratorium & Pengembangan | Biosolution',
+  title: 'Riset & Inovasi Bioteknologi | Biosolution',
   description: 'Pusat riset bioteknologi Biosolution: mikrobiologi, formulasi produk, uji lapangan, dan kolaborasi dengan universitas terkemuka Indonesia. Inovasi berkelanjutan untuk pertanian Indonesia.',
   keywords: ['riset bioteknologi', 'laboratorium mikrobiologi', 'penelitian pertanian', 'inovasi bioteknologi', 'pengembangan produk'],
   alternates: {
@@ -89,7 +89,7 @@ export const researchMetadata: Metadata = {
 };
 
 export const newsMetadata: Metadata = {
-  title: 'Berita & Artikel - Informasi Bioteknologi Pertanian | Biosolution',
+  title: 'Berita & Artikel Bioteknologi | Biosolution',
   description: 'Berita terbaru, artikel edukasi, dan insight tentang bioteknologi pertanian, tips budidaya, manajemen hama, dan tren industri dari Biosolution.',
   keywords: ['berita bioteknologi', 'artikel pertanian', 'tips budidaya', 'manajemen hama', 'tren pertanian'],
   alternates: {
@@ -120,7 +120,7 @@ export const contactMetadata: Metadata = {
 
 // English Page Metadata
 export const homeMetadataEN: Metadata = {
-  title: "Biosolution | Indonesia's #1 Agricultural Biotechnology - Bio-Fertilizers, Biosecurity & Contract Manufacturing",
+  title: "Biosolution | Indonesia's #1 Agricultural Biotechnology",
   description: "Biosolution - Indonesia's leading agricultural biotechnology company. Specialists in bio-fertilizers, bio-insecticides, horticulture biosecurity, animal probiotics, and contract manufacturing. 14+ years experience, serving 19 provinces. Contact: +62 857-4224-9591.",
   keywords: ['agricultural biotechnology', 'bio-fertilizer', 'biosecurity', 'horticulture', 'contract manufacturing', 'probiotics', 'Indonesia'],
   alternates: {
@@ -130,7 +130,7 @@ export const homeMetadataEN: Metadata = {
 };
 
 export const aboutMetadataEN: Metadata = {
-  title: "About Biosolution - Indonesia's Agricultural Biotechnology Company Since 2010",
+  title: "About Biosolution - Agricultural Biotech Since 2010",
   description: "Learn about Biosolution (PT Centra Biotech Indonesia) - pioneer of Indonesian agricultural biotechnology. Founded 2010, serving 19 provinces with premium bio-fertilizers, bio-insecticides, and biosecurity solutions.",
   keywords: ['about biosolution', 'biosolution history', 'PT Centra Biotech Indonesia', 'Indonesia biotechnology', 'biosolution founder'],
   alternates: {
@@ -145,7 +145,7 @@ export const aboutMetadataEN: Metadata = {
 };
 
 export const solutionsMetadataEN: Metadata = {
-  title: 'Biotechnology Solutions - Agriculture, Livestock & Aquaculture Products | Biosolution',
+  title: 'Biotechnology Solutions - Agriculture & Livestock',
   description: "Explore Biosolution's complete biotechnology solutions: bio-fertilizers, bio-insecticides, livestock probiotics, fish probiotics, and biosecurity products for sustainable Indonesian agriculture.",
   keywords: ['biotechnology solutions', 'agricultural products', 'bio-fertilizer', 'bio-insecticide', 'livestock probiotics', 'fish probiotics', 'biosecurity'],
   alternates: {
@@ -160,7 +160,7 @@ export const solutionsMetadataEN: Metadata = {
 };
 
 export const solutionsPlantMetadataEN: Metadata = {
-  title: 'Plant Biosecurity - Bio-Fertilizers & Bio-Insecticides | Biosolution',
+  title: 'Plant Biosecurity - Bio-Fertilizers & Insecticides',
   description: 'Premium plant biosecurity products: FloraOne, BioKiller, BIOJAGAT, and more. Bio-fertilizers and bio-insecticides for horticulture, plantations, and sustainable agriculture.',
   keywords: ['plant biosecurity', 'bio-fertilizer', 'bio-insecticide', 'FloraOne', 'BioKiller', 'BIOJAGAT', 'horticulture', 'organic farming'],
   alternates: {
@@ -175,7 +175,7 @@ export const solutionsPlantMetadataEN: Metadata = {
 };
 
 export const solutionsAnimalMetadataEN: Metadata = {
-  title: 'Animal Biosecurity - Livestock, Poultry & Fish Probiotics | Biosolution',
+  title: 'Animal Biosecurity - Livestock & Poultry Probiotics',
   description: 'Premium animal biosecurity products: SIMBIOS, RAJABIO, MEGABIO for livestock, poultry, and aquaculture. Boost farm productivity with quality probiotics.',
   keywords: ['animal biosecurity', 'livestock probiotics', 'poultry probiotics', 'fish probiotics', 'SIMBIOS', 'RAJABIO', 'MEGABIO', 'aquaculture', 'livestock'],
   alternates: {
@@ -190,7 +190,7 @@ export const solutionsAnimalMetadataEN: Metadata = {
 };
 
 export const researchMetadataEN: Metadata = {
-  title: 'Research & Innovation - Biotechnology Laboratory & Development | Biosolution',
+  title: 'Research & Innovation | Biosolution',
   description: "Biosolution's biotechnology research center: microbiology, product formulation, field testing, and collaboration with leading Indonesian universities. Continuous innovation for Indonesian agriculture.",
   keywords: ['biotechnology research', 'microbiology laboratory', 'agricultural research', 'biotechnology innovation', 'product development'],
   alternates: {
@@ -205,7 +205,7 @@ export const researchMetadataEN: Metadata = {
 };
 
 export const newsMetadataEN: Metadata = {
-  title: 'News & Articles - Agricultural Biotechnology Information | Biosolution',
+  title: 'News & Articles - Agricultural Biotech | Biosolution',
   description: 'Latest news, educational articles, and insights about agricultural biotechnology, farming tips, pest management, and industry trends from Biosolution.',
   keywords: ['biotechnology news', 'agricultural articles', 'farming tips', 'pest management', 'agricultural trends'],
   alternates: {

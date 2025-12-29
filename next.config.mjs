@@ -16,6 +16,41 @@ const nextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      // Legacy product name redirects to benefit-based slugs
+      {
+        source: '/products/floraone',
+        destination: '/products/formula-nutrisi-tanaman-lengkap',
+        permanent: true,
+      },
+      {
+        source: '/products/biokiller',
+        destination: '/products/formula-pengendalian-ulat-grayak',
+        permanent: true,
+      },
+      {
+        source: '/products/biojagat',
+        destination: '/products/formula-kesuburan-tanah-optimal',
+        permanent: true,
+      },
+      {
+        source: '/products/simbios',
+        destination: '/products/formula-probiotik-unggas-premium',
+        permanent: true,
+      },
+      {
+        source: '/products/rajabio',
+        destination: '/products/formula-produktivitas-ternak-optimal',
+        permanent: true,
+      },
+      {
+        source: '/products/megabio',
+        destination: '/products/formula-penggemukan-sapi',
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

@@ -9,7 +9,6 @@ export function generateOrganizationSchema(locale: 'id' | 'en' = 'id') {
   const isEnglish = locale === 'en';
   
   return {
-    '@context': 'https://schema.org',
     '@type': 'Organization',
     '@id': 'https://www.biosolution.tech/#organization',
     name: 'Biosolution',
@@ -102,7 +101,6 @@ export function generateLocalBusinessSchema(locale: 'id' | 'en' = 'id') {
   const isEnglish = locale === 'en';
   
   return {
-    '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     '@id': 'https://www.biosolution.tech/#localbusiness',
     name: 'Biosolution - PT Centra Biotech Indonesia',
@@ -160,7 +158,7 @@ export function generateProductSchema(product: {
     '@type': 'Product',
     name: product.name,
     description: product.description,
-    image: product.image || 'https://www.biosolution.tech/products/default.jpg',
+    image: product.image || 'https://www.biosolution.tech/og-image.jpg',
     brand: {
       '@type': 'Brand',
       name: 'Biosolution',
@@ -171,27 +169,13 @@ export function generateProductSchema(product: {
     },
     category: product.category,
     sku: product.sku || product.name.toUpperCase().replace(/\s/g, '-'),
-    offers: {
-      '@type': 'Offer',
-      availability: 'https://schema.org/InStock',
-      priceCurrency: 'IDR',
-      seller: {
-        '@type': 'Organization',
-        name: 'Biosolution',
-      },
-    },
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: '4.7',
-      reviewCount: '89',
-    },
   };
 }
 
 export function generateFAQSchema(faqs: Array<{ question: string; answer: string }>) {
   return {
-    '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    '@id': 'https://www.biosolution.tech/#faq',
     mainEntity: faqs.map((faq) => ({
       '@type': 'Question',
       name: faq.question,
@@ -205,7 +189,6 @@ export function generateFAQSchema(faqs: Array<{ question: string; answer: string
 
 export function generateBreadcrumbSchema(items: Array<{ name: string; url: string }>) {
   return {
-    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: items.map((item, index) => ({
       '@type': 'ListItem',
@@ -221,7 +204,6 @@ export function generateWebsiteSchema(locale: 'id' | 'en' = 'id') {
   const baseUrl = 'https://www.biosolution.tech';
   
   return {
-    '@context': 'https://schema.org',
     '@type': 'WebSite',
     '@id': `${baseUrl}/#website`,
     url: baseUrl,
@@ -233,14 +215,6 @@ export function generateWebsiteSchema(locale: 'id' | 'en' = 'id') {
       '@id': `${baseUrl}/#organization`,
     },
     inLanguage: isEnglish ? 'en-US' : 'id-ID',
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: {
-        '@type': 'EntryPoint',
-        urlTemplate: `${baseUrl}/search?q={search_term_string}`,
-      },
-      'query-input': 'required name=search_term_string',
-    },
   };
 }
 
@@ -254,7 +228,6 @@ export function generateArticleSchema(article: {
   url: string;
 }) {
   return {
-    '@context': 'https://schema.org',
     '@type': 'Article',
     headline: article.title,
     description: article.description,

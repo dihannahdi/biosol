@@ -24,8 +24,8 @@ const jetbrains = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.biosolution.tech"),
   title: {
-    default: "Biosolution | Bioteknologi Pertanian Indonesia #1 - Pupuk Hayati & Biosecurity",
-    template: "%s | Biosolution - Solusi Bioteknologi Terdepan",
+    default: "Biosolution | Bioteknologi Pertanian #1 Indonesia",
+    template: "%s | Biosolution",
   },
   description:
     "Biosolution (PT Centra Biotech Indonesia) - Perusahaan bioteknologi pertanian terdepan Indonesia. Spesialis pupuk hayati, insektisida hayati, biosecurity hortikultura, probiotik hewan, dan jasa maklon. Melayani 19 provinsi sejak 2010. WhatsApp: +62 857-4224-9591.",
@@ -124,13 +124,6 @@ export const metadata: Metadata = {
     email: false,
     address: false,
     telephone: false,
-  },
-  alternates: {
-    canonical: "https://www.biosolution.tech",
-    languages: {
-      "id-ID": "https://www.biosolution.tech",
-      "en-US": "https://www.biosolution.tech/en",
-    },
   },
   openGraph: {
     type: "website",
