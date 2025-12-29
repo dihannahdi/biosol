@@ -98,6 +98,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'yearly',
       priority: 0.3,
     },
+    {
+      url: `${baseUrl}/maklon`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.95,
+    },
   ];
 
   // Indonesian news article pages
@@ -188,6 +194,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: currentDate,
       changeFrequency: 'yearly',
       priority: 0.3,
+    },
+    {
+      url: `${baseUrl}/en/maklon`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.95,
     },
   ];
 

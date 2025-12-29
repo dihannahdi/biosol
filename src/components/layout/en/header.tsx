@@ -18,6 +18,7 @@ const navigation = [
       { name: "Animal Health", href: "/en/solutions/animal", description: "Livestock & Aquaculture" },
     ],
   },
+  { name: "Contract Manufacturing", href: "/en/maklon", highlight: true },
   { name: "Research", href: "/en/research" },
   { name: "News", href: "/en/news" },
   { name: "Contact", href: "/en/contact" },

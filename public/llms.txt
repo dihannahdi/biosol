@@ -1,8 +1,30 @@
 # Biosolution - PT Centra Biotech Indonesia
 
-> Perusahaan bioteknologi pertanian terdepan Indonesia, spesialis pupuk hayati, insektisida hayati, dan probiotik hewan sejak 2010.
+> Perusahaan bioteknologi pertanian terdepan Indonesia dan penyedia jasa maklon (contract manufacturing) terpercaya untuk pupuk hayati, pestisida hayati, dan probiotik sejak 2010.
 
-Biosolution (PT Centra Biotech Indonesia) adalah pelopor bioteknologi pertanian Indonesia yang berdiri sejak 2010. Kami mengembangkan dan memproduksi solusi biologis untuk pertanian berkelanjutan, peternakan, dan akuakultur.
+Biosolution (PT Centra Biotech Indonesia) adalah pelopor bioteknologi pertanian Indonesia yang berdiri sejak 2010. Kami mengembangkan, memproduksi, dan menyediakan jasa maklon (contract manufacturing) untuk solusi biologis pertanian berkelanjutan, peternakan, dan akuakultur.
+
+## Jasa Maklon (Contract Manufacturing)
+
+Biosolution adalah partner maklon terpercaya untuk produk bioteknologi pertanian:
+
+### Layanan Maklon
+- **Maklon Pupuk Hayati**: Pupuk hayati cair dan padat dengan formulasi custom
+- **Maklon Pestisida Hayati**: Insektisida dan fungisida berbasis mikroorganisme
+- **Maklon Probiotik Ternak**: Probiotik untuk unggas, ruminansia, dan ternak
+- **Maklon Probiotik Akuakultur**: Probiotik ikan dan udang
+- **Maklon Produk Rumah Tangga**: Septic tank treatment, bio-cleaner
+- **Maklon Produk Industri**: Pengolahan limbah, bioremediasi
+
+### Keunggulan Maklon Biosolution
+- 14+ tahun pengalaman produksi
+- 50+ mitra maklon aktif
+- R&D support penuh
+- Terdaftar Kementerian Pertanian
+- Private label & white label
+- MOQ mulai 500 liter/kg
+- Dokumentasi lengkap (COA, MSDS)
+- Pengiriman nasional
 
 ## Produk Unggulan
 
@@ -47,6 +69,7 @@ Melayani 19 provinsi di Indonesia dengan jaringan distributor dan mitra bisnis.
 
 - Beranda: https://www.biosolution.tech/
 - Tentang Kami: https://www.biosolution.tech/about
+- Jasa Maklon: https://www.biosolution.tech/maklon
 - Solusi: https://www.biosolution.tech/solutions
 - Produk: https://www.biosolution.tech/products
 - Riset: https://www.biosolution.tech/research
@@ -57,6 +80,7 @@ Melayani 19 provinsi di Indonesia dengan jaringan distributor dan mitra bisnis.
 
 - Homepage: https://www.biosolution.tech/en
 - About: https://www.biosolution.tech/en/about
+- Contract Manufacturing: https://www.biosolution.tech/en/maklon
 - Solutions: https://www.biosolution.tech/en/solutions
 - News: https://www.biosolution.tech/en/news
 - Contact: https://www.biosolution.tech/en/contact

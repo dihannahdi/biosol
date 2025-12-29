@@ -15,6 +15,7 @@ import {
   Phone,
   ArrowRight,
   Globe,
+  Factory,
 } from "lucide-react";
 import { BioLogo } from "@/components/ui/bio-logo";
 
@@ -35,6 +36,12 @@ const navigation = [
       { name: "Household Care", href: "/solutions/household", description: "Rumah tangga & hotel" },
       { name: "Bioproses Industri", href: "/solutions/industrial", description: "Pengolahan limbah industri" },
     ],
+  },
+  {
+    name: "Jasa Maklon",
+    href: "/maklon",
+    icon: Factory,
+    highlight: true,
   },
   {
     name: "Riset",
@@ -69,7 +76,8 @@ export function Header() {
     '/solutions/industrial',
     '/research',
     '/about',
-    '/contact'
+    '/contact',
+    '/maklon'
   ];
   
   const needsSolidHeader = lightBackgroundPages.some(page => pathname.startsWith(page));
