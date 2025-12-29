@@ -1,0 +1,39 @@
+{
+  "name": "Biosolution - Bioteknologi Pertanian Indonesia",
+  "short_name": "Biosolution",
+  "description": "Perusahaan bioteknologi pertanian Indonesia terdepan. Pupuk hayati, insektisida hayati, biosecurity hortikultura, probiotik hewan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf8f5",
+  "theme_color": "#16a34a",
+  "categories": ["business", "agriculture", "biotechnology"],
+  "lang": "id",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Biosolution Homepage"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": []
+}
