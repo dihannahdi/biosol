@@ -98,7 +98,18 @@ export function HeroSection() {
 
       {/* Hero Content */}
       <div className="relative container-wide text-center z-10 pt-28 pb-20">
-        {/* Main Headline - Cult-building copy */}
+        {/* SEO-Optimized Badge */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+          className="hero-badge inline-flex items-center gap-2 px-4 py-2 bg-forest-500/20 border border-forest-500/30 rounded-full text-sm font-medium text-forest-300 mb-6"
+        >
+          <Flame className="w-4 h-4" />
+          Produsen Pupuk Hayati & Bioteknologi Pertanian #1 Indonesia
+        </motion.div>
+
+        {/* Main Headline - SEO Optimized with Brand Voice */}
         <h1
           ref={headlineRef}
           className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-black text-white max-w-6xl mx-auto leading-[0.95] mb-10 tracking-tight"
@@ -109,13 +120,13 @@ export function HeroSection() {
           </span>
         </h1>
 
-        {/* Manifesto - Provocative subtitle */}
+        {/* Manifesto - SEO Keywords Integrated */}
         <div
           ref={manifestoRef}
           className="max-w-3xl mx-auto mb-14"
         >
           <p className="text-xl md:text-2xl lg:text-3xl text-carbon-200 leading-relaxed font-light">
-            Apapun yang ada di alam, solusinya ada di alam juga. Mari bergabung dan mengambil inspirasi dari alam untuk memecahkan tantangan pertanian dan peternakan Anda.
+            Solusi <strong className="text-forest-300 font-medium">pupuk hayati</strong>, <strong className="text-microbe-300 font-medium">insektisida hayati</strong>, dan <strong className="text-moss-300 font-medium">probiotik ternak</strong> berbasis bioteknologi untuk pertanian berkelanjutan Indonesia. Terdaftar Kementan, melayani 19 provinsi.
           </p>
         </div>
 

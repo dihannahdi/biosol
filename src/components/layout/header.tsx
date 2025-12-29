@@ -30,6 +30,7 @@ const navigation = [
     href: "/solutions",
     icon: FlaskConical,
     children: [
+      { name: "Pupuk Hayati", href: "/pupuk-hayati", description: "Biofertilizer cair & padat premium" },
       { name: "Biosekuriti Tanaman", href: "/solutions/plant", description: "Tanaman pangan, hortikultura, perkebunan" },
       { name: "Peternakan", href: "/solutions/livestock", description: "Ternak unggas, ruminansia, babi" },
       { name: "Perikanan", href: "/solutions/fishery", description: "Tambak udang, kolam ikan, keramba" },
@@ -77,7 +78,8 @@ export function Header() {
     '/research',
     '/about',
     '/contact',
-    '/maklon'
+    '/maklon',
+    '/pupuk-hayati'
   ];
   
   const needsSolidHeader = lightBackgroundPages.some(page => pathname.startsWith(page));

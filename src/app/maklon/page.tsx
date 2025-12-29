@@ -36,43 +36,43 @@ import {
 
 gsap.registerPlugin(ScrollTrigger);
 
-// Jenis layanan maklon
+// Jenis layanan maklon - SEO optimized descriptions
 const maklonServices = [
   {
     icon: Leaf,
     title: "Maklon Pupuk Hayati",
-    description: "Produksi pupuk hayati cair dan padat dengan formulasi custom sesuai kebutuhan Anda.",
-    products: ["Pupuk Hayati Cair", "Pupuk Organik Granul", "Decomposer", "Bio-Fertilizer"],
+    description: "Jasa maklon pupuk hayati cair dan padat dengan formulasi custom. Produksi pupuk hayati organik, biofertilizer, pupuk organik cair (POC) dengan brand Anda sendiri.",
+    products: ["Pupuk Hayati Cair", "Pupuk Hayati Padat", "Pupuk Organik Granul", "Decomposer", "Bio-Fertilizer"],
   },
   {
     icon: Shield,
     title: "Maklon Pestisida Hayati",
-    description: "Insektisida dan fungisida hayati berbasis mikroorganisme unggul.",
-    products: ["Insektisida Hayati", "Fungisida Hayati", "Nematisida Hayati", "Bio-Pesticide"],
+    description: "Maklon insektisida hayati dan fungisida hayati berbasis mikroorganisme unggul seperti Beauveria bassiana dan Trichoderma. Produk ramah lingkungan.",
+    products: ["Insektisida Hayati", "Fungisida Hayati", "Nematisida Hayati", "Bio-Pesticide", "Herbisida Organik"],
   },
   {
     icon: Beef,
     title: "Maklon Probiotik Ternak",
-    description: "Probiotik untuk unggas, ruminansia, dan ternak dengan strain pilihan.",
-    products: ["Probiotik Ayam", "Probiotik Sapi", "Probiotik Kambing", "Feed Additive"],
+    description: "Jasa maklon probiotik untuk unggas, ruminansia, dan ternak dengan strain pilihan. Meningkatkan FCR, kesehatan usus, dan produktivitas ternak.",
+    products: ["Probiotik Ayam", "Probiotik Sapi", "Probiotik Kambing", "Feed Additive", "Prebiotik Ternak"],
   },
   {
     icon: Fish,
     title: "Maklon Probiotik Akuakultur",
-    description: "Probiotik ikan dan udang untuk meningkatkan produktivitas tambak.",
-    products: ["Probiotik Ikan", "Probiotik Udang", "Pengurai Limbah", "Water Treatment"],
+    description: "Maklon probiotik ikan dan udang untuk meningkatkan produktivitas tambak. Solusi pencegahan penyakit dan pengolahan air.",
+    products: ["Probiotik Ikan", "Probiotik Udang", "Pengurai Limbah Kolam", "Water Treatment", "Bioflok"],
   },
   {
     icon: Home,
     title: "Maklon Produk Rumah Tangga",
-    description: "Produk enzim dan probiotik untuk solusi rumah tangga ramah lingkungan.",
-    products: ["Septic Tank Treatment", "Pembersih Enzim", "Pengurai Organik", "Bio-Cleaner"],
+    description: "Maklon produk enzim dan probiotik untuk solusi rumah tangga ramah lingkungan. Dari septic tank treatment hingga bio-cleaner.",
+    products: ["Septic Tank Treatment", "Pembersih Enzim", "Pengurai Organik", "Bio-Cleaner", "Penghilang Bau"],
   },
   {
     icon: Factory,
     title: "Maklon Produk Industri",
-    description: "Solusi bioteknologi untuk industri pengolahan dan manufaktur.",
-    products: ["Pengurai Limbah Industri", "Bioremediasi", "Enzim Industri", "WWTP Treatment"],
+    description: "Jasa maklon bioteknologi untuk industri pengolahan dan manufaktur. Solusi pengolahan limbah dan bioremediasi.",
+    products: ["Pengurai Limbah Industri", "Bioremediasi", "Enzim Industri", "WWTP Treatment", "Grease Trap Treatment"],
   },
 ];
 
@@ -158,31 +158,31 @@ const stats = [
   { value: "19", label: "Provinsi Terjangkau" },
 ];
 
-// FAQ Maklon
+// FAQ Maklon - SEO optimized with target keywords
 const faqs = [
   {
-    q: "Berapa MOQ (Minimum Order Quantity) untuk maklon?",
-    a: "MOQ kami mulai dari 500 liter untuk produk cair dan 500 kg untuk produk padat. Untuk order perdana, kami dapat menyesuaikan dengan kebutuhan Anda untuk uji pasar.",
+    q: "Berapa MOQ (Minimum Order Quantity) untuk maklon pupuk hayati?",
+    a: "MOQ jasa maklon pupuk hayati kami mulai dari 500 liter untuk produk cair (pupuk hayati cair, pupuk organik cair) dan 500 kg untuk produk padat (pupuk hayati padat, granul). Untuk order perdana maklon pupuk, kami dapat menyesuaikan dengan kebutuhan uji pasar Anda.",
   },
   {
-    q: "Apakah bisa menggunakan merek sendiri (private label)?",
-    a: "Ya, kami menyediakan layanan private label dan white label. Anda bisa menggunakan brand, logo, dan desain kemasan sendiri.",
+    q: "Apakah bisa menggunakan merek sendiri (private label) untuk maklon pupuk?",
+    a: "Ya, kami menyediakan layanan private label dan white label untuk semua jasa maklon pupuk hayati. Anda bisa menggunakan brand, logo, dan desain kemasan sendiri untuk produk pupuk organik cair maupun pupuk hayati padat.",
   },
   {
-    q: "Berapa lama waktu produksi dari PO hingga pengiriman?",
-    a: "Untuk produk dengan formulasi existing, lead time sekitar 2-4 minggu. Untuk pengembangan formulasi baru, tambahan 2-4 minggu untuk R&D.",
+    q: "Berapa lama waktu produksi maklon pupuk hayati dari PO hingga pengiriman?",
+    a: "Untuk produk pupuk hayati dengan formulasi existing, lead time jasa maklon sekitar 2-4 minggu. Untuk pengembangan formulasi baru pupuk hayati organik atau pupuk organik cair custom, tambahan 2-4 minggu untuk R&D.",
   },
   {
-    q: "Apakah produk maklon bisa didaftarkan ke Kementan?",
-    a: "Ya, kami membantu proses registrasi produk ke Kementerian Pertanian. Fasilitas kami sudah terdaftar dan memenuhi persyaratan regulasi.",
+    q: "Apakah produk maklon pupuk hayati bisa didaftarkan ke Kementan?",
+    a: "Ya, kami membantu proses registrasi produk pupuk hayati dan pupuk organik ke Kementerian Pertanian. Fasilitas produksi maklon pupuk kami sudah terdaftar dan memenuhi persyaratan regulasi untuk produsen pupuk hayati.",
   },
   {
-    q: "Apa saja dokumen yang disediakan?",
-    a: "Setiap produk dilengkapi dengan COA (Certificate of Analysis), MSDS (Material Safety Data Sheet), Technical Data Sheet, dan dokumen pendukung registrasi.",
+    q: "Apa saja dokumen yang disediakan untuk maklon pupuk?",
+    a: "Setiap produk maklon pupuk hayati dilengkapi dengan COA (Certificate of Analysis), MSDS (Material Safety Data Sheet), Technical Data Sheet, dan dokumen pendukung registrasi ke Kementan.",
   },
   {
-    q: "Apakah bisa request formulasi khusus?",
-    a: "Tentu! Tim R&D kami dapat mengembangkan formulasi custom sesuai kebutuhan target pasar atau komoditas spesifik Anda.",
+    q: "Apakah bisa request formulasi pupuk hayati khusus?",
+    a: "Tentu! Tim R&D kami dapat mengembangkan formulasi pupuk hayati organik, pupuk organik cair, atau biofertilizer custom sesuai kebutuhan target pasar atau komoditas spesifik Anda.",
   },
 ];
 
@@ -252,14 +252,15 @@ export default function MaklonPage() {
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-display font-bold mb-6 leading-[1.1]">
                 Jasa Maklon{" "}
                 <span className="bg-gradient-to-r from-forest-400 via-microbe-400 to-moss-400 bg-clip-text text-transparent">
-                  Bioteknologi
+                  Pupuk Hayati
                 </span>{" "}
-                Terpercaya
+                & Bioteknologi Terpercaya
               </h1>
               
               <p className="text-lg sm:text-xl text-white/70 mb-8 leading-relaxed max-w-2xl">
-                Wujudkan produk bioteknologi dengan brand Anda sendiri. Dari pupuk hayati hingga probiotik—kami produksi, Anda yang jual.
-                <span className="text-forest-400 font-medium"> 14+ tahun pengalaman, 50+ mitra aktif.</span>
+                Produksi <strong className="text-forest-400">pupuk hayati</strong>, pestisida hayati, dan probiotik dengan brand Anda sendiri. 
+                Kami adalah partner <strong className="text-forest-400">maklon pupuk</strong> terpercaya dengan fasilitas produksi terdaftar Kementan.
+                <span className="text-forest-400 font-medium"> 14+ tahun pengalaman, 50+ mitra maklon aktif.</span>
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4">

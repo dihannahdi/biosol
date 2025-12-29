@@ -4,9 +4,23 @@ const baseUrl = 'https://www.biosolution.tech';
 
 // Indonesian Page Metadata
 export const homeMetadata: Metadata = {
-  title: 'Biosolution | Bioteknologi Pertanian #1 Indonesia',
-  description: 'Biosolution - Perusahaan bioteknologi pertanian terdepan Indonesia. Spesialis pupuk hayati, insektisida hayati, biosecurity hortikultura, probiotik hewan, dan jasa maklon. 14+ tahun pengalaman, melayani 19 provinsi. Hubungi: +62 857-4224-9591.',
-  keywords: ['bioteknologi pertanian', 'pupuk hayati', 'biosecurity', 'hortikultura', 'maklon', 'probiotik', 'Indonesia'],
+  title: 'Biosolution | Produsen Pupuk Hayati & Bioteknologi #1 Indonesia',
+  description: 'Biosolution - Produsen pupuk hayati organik dan bioteknologi pertanian terdepan Indonesia. Spesialis pupuk hayati cair, insektisida hayati, probiotik ternak, dan jasa maklon pupuk. 14+ tahun pengalaman, terdaftar Kementan, melayani 19 provinsi. Hubungi: +62 857-4224-9591.',
+  keywords: [
+    'pupuk hayati',
+    'pupuk hayati organik',
+    'pupuk hayati cair',
+    'produsen pupuk hayati',
+    'bioteknologi pertanian',
+    'biosecurity',
+    'hortikultura',
+    'maklon pupuk',
+    'jasa maklon pupuk',
+    'probiotik ternak',
+    'insektisida hayati',
+    'pupuk organik cair',
+    'biofertilizer Indonesia',
+  ],
   alternates: {
     canonical: baseUrl,
     languages: { 'id-ID': baseUrl, 'en-US': `${baseUrl}/en` },

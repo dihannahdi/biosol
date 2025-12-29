@@ -101,8 +101,24 @@ export function CTASection() {
 
               {/* Description */}
               <p className="text-base sm:text-lg md:text-xl text-white/70 max-w-2xl mx-auto mb-6 sm:mb-8">
-                Konsultasikan kebutuhan bioteknologi Anda dengan tim ahli kami. Dapatkan solusi yang disesuaikan untuk industri dan skala bisnis Anda.
+                Konsultasikan kebutuhan <strong className="text-white/90">pupuk hayati</strong>, <strong className="text-white/90">jasa maklon pupuk</strong>, dan solusi bioteknologi lainnya dengan tim ahli kami. Dapatkan solusi yang disesuaikan untuk industri dan skala bisnis Anda.
               </p>
+
+              {/* Quick Links */}
+              <div className="flex flex-wrap items-center justify-center gap-3 mb-6">
+                <Link
+                  href="/pupuk-hayati"
+                  className="inline-flex items-center gap-1.5 px-4 py-2 bg-microbe-500/20 text-microbe-200 text-sm font-medium rounded-full border border-microbe-400/30 hover:bg-microbe-500/30 transition-all"
+                >
+                  🌱 Pupuk Hayati Organik
+                </Link>
+                <Link
+                  href="/maklon"
+                  className="inline-flex items-center gap-1.5 px-4 py-2 bg-forest-500/20 text-forest-200 text-sm font-medium rounded-full border border-forest-400/30 hover:bg-forest-500/30 transition-all"
+                >
+                  🏭 Jasa Maklon Pupuk
+                </Link>
+              </div>
 
               {/* Trust Signals - Risk Reversal */}
               <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6 mb-8 sm:mb-10">

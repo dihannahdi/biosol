@@ -14,6 +14,7 @@ const navigation = [
     name: "Solutions",
     href: "/en/solutions",
     children: [
+      { name: "Bio-Fertilizers", href: "/en/biofertilizer", description: "Premium Liquid & Solid Biofertilizers" },
       { name: "Plant Biosecurity", href: "/en/solutions/plant", description: "Crops, Horticulture, Plantations" },
       { name: "Animal Health", href: "/en/solutions/animal", description: "Livestock & Aquaculture" },
     ],

@@ -17,7 +17,7 @@ const industries = [
     title: "Biosekuriti Tanaman",
     subtitle: "Plant Biosecurity",
     description:
-      "Pupuk hayati, insektisida, dan fungisida organik untuk tanaman pangan, hortikultura, perkebunan, dan tanaman hobi. Lindungi dan tingkatkan produktivitas tanaman Anda.",
+      "Pupuk hayati organik, insektisida hayati, dan fungisida organik untuk tanaman pangan, hortikultura, dan perkebunan. Tingkatkan hasil panen 20-30% dengan pupuk hayati cair premium.",
     icon: Wheat,
     color: "forest",
     products: ["FloraOne", "BIOKILLER SL", "BIOJAGAT", "SIMBIOS", "TRICO-Z WP"],

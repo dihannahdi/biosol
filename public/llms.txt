@@ -1,8 +1,32 @@
 # Biosolution - PT Centra Biotech Indonesia
 
-> Perusahaan bioteknologi pertanian terdepan Indonesia dan penyedia jasa maklon (contract manufacturing) terpercaya untuk pupuk hayati, pestisida hayati, dan probiotik sejak 2010.
+> Perusahaan bioteknologi pertanian terdepan Indonesia: produsen pupuk hayati organik dan penyedia jasa maklon (contract manufacturing) terpercaya untuk pupuk hayati, pestisida hayati, dan probiotik sejak 2010.
 
-Biosolution (PT Centra Biotech Indonesia) adalah pelopor bioteknologi pertanian Indonesia yang berdiri sejak 2010. Kami mengembangkan, memproduksi, dan menyediakan jasa maklon (contract manufacturing) untuk solusi biologis pertanian berkelanjutan, peternakan, dan akuakultur.
+Biosolution (PT Centra Biotech Indonesia) adalah pelopor bioteknologi pertanian Indonesia yang berdiri sejak 2010. Kami adalah produsen pupuk hayati terpercaya yang mengembangkan, memproduksi, dan menyediakan jasa maklon (contract manufacturing) untuk solusi biologis pertanian berkelanjutan, peternakan, dan akuakultur.
+
+## Pupuk Hayati Organik
+
+Biosolution adalah produsen pupuk hayati organik berkualitas tinggi di Indonesia dengan pengalaman 14+ tahun.
+
+### Produk Pupuk Hayati
+- **FloraOne**: Pupuk hayati cair premium dengan konsorsium 4 mikroba unggul (Azotobacter, Azospirillum, Bacillus, Pseudomonas)
+- **BIOJAGAT**: Pupuk hayati organik serbaguna untuk kesehatan tanah
+- **MEGABIO**: Pupuk hayati padat granul untuk pertanian skala besar
+
+### Keunggulan Pupuk Hayati Biosolution
+- Konsentrasi mikroba tinggi 10⁸ CFU/ml
+- Meningkatkan hasil panen 20-30%
+- Menghemat pupuk kimia hingga 50%
+- Memperbaiki struktur tanah jangka panjang
+- Ramah lingkungan dan aman untuk pertanian organik
+- Terdaftar Kementerian Pertanian
+
+### Kandungan Mikroba Pupuk Hayati
+- **Azotobacter sp.**: Penambat nitrogen dari udara
+- **Azospirillum sp.**: Penghasil hormon pertumbuhan
+- **Bacillus subtilis**: Pelarut fosfat dan kalium
+- **Pseudomonas fluorescens**: Produksi antibiotik alami
+- **Trichoderma harzianum**: Pengendali jamur patogen
 
 ## Jasa Maklon (Contract Manufacturing)
 
@@ -24,7 +48,7 @@ Biosolution adalah partner maklon terpercaya untuk produk bioteknologi pertanian
 - Private label & white label
 - MOQ mulai 500 liter/kg
 - Dokumentasi lengkap (COA, MSDS)
-- Pengiriman nasional
+- Pengiriman nasional 19 provinsi
 
 ## Produk Unggulan
 
@@ -69,6 +93,7 @@ Melayani 19 provinsi di Indonesia dengan jaringan distributor dan mitra bisnis.
 
 - Beranda: https://www.biosolution.tech/
 - Tentang Kami: https://www.biosolution.tech/about
+- Pupuk Hayati: https://www.biosolution.tech/pupuk-hayati
 - Jasa Maklon: https://www.biosolution.tech/maklon
 - Solusi: https://www.biosolution.tech/solutions
 - Produk: https://www.biosolution.tech/products
@@ -80,6 +105,7 @@ Melayani 19 provinsi di Indonesia dengan jaringan distributor dan mitra bisnis.
 
 - Homepage: https://www.biosolution.tech/en
 - About: https://www.biosolution.tech/en/about
+- Bio-Fertilizers: https://www.biosolution.tech/en/biofertilizer
 - Contract Manufacturing: https://www.biosolution.tech/en/maklon
 - Solutions: https://www.biosolution.tech/en/solutions
 - News: https://www.biosolution.tech/en/news
